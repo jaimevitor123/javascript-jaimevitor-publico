@@ -1,0 +1,11 @@
+a{
+  background-color: #ddd;
+  padding: 10px;
+  display: block;
+  
+}
+
+.inlineblock{
+  display: inline-block;
+  margin: 15px;
+}

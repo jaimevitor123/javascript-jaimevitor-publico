@@ -1,0 +1,13 @@
+.botao{
+  display: block; /*apresenta o item em bloco*/ 
+  margin-top: 20px; /* margem do topo*/
+  text-decoration: none; /*remove o sublinhado*/
+  background: #ffd700;
+  width: 85px;
+  padding: 5px;
+  border: 1px solid #111;
+  border-radius: 2%;
+  text-align: center;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}

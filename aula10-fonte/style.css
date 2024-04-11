@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@300;400;700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Slackside+One&display=swap');
+
+h1{
+  font-family: kalam, cursive;
+  font-weight: 300;
+  font-style: normal;
+  color: blueviolet;
+  text-decoration: underline;
+  background: yellowgreen;
+}
+
+h2{
+  font-family: 'curier prime', monospace;
+  font-size: 2em;
+  color: #FDDE73;
+}
+p{
+  font-family: '', monospace;
+
+}
